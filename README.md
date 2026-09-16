@@ -1,5 +1,3 @@
-# south-albania-transfer-proof
-Live WordPress site for a private transfer business in Albania — booking flow, destinations, SEO pages.
 # South Albania Private Transfer
 
 Live WordPress business site for a private transfer company operating across southern Albania.
@@ -70,18 +68,15 @@ Multi-step reservation form including:
 
 ## What Broke and How I Fixed It
 
-When I first configured the booking form, reservations weren't saving the destination field
-correctly. I traced the issue to how the pickup and destination fields were connected in the
-booking plugin settings. After testing different configurations and rebuilding the route list,
-bookings started saving with the correct pickup, destination, and vehicle.
+When I first configured the booking form, reservations weren't saving the destination field correctly. I traced the issue to how the pickup and destination fields were connected in the booking plugin settings. After testing different configurations and rebuilding the route list, bookings started saving with the correct pickup, destination, and vehicle.
 
 ---
 
 ## What I'd Improve Next
 
-- Image compression for faster page load
-- Mobile menu refinements
-- [Add your own observations]
+- Add more route-specific landing pages for local SEO
+- Reduce large image sizes for faster page loading
+- Test and refine the mobile menu on smaller screens
 
 ---
 
