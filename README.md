@@ -70,7 +70,10 @@ Multi-step reservation form including:
 
 ## What Broke and How I Fixed It
 
-[WRITE ONE HONEST PARAGRAPH HERE — see instructions below]
+When I first configured the booking form, reservations weren't saving the destination field
+correctly. I traced the issue to how the pickup and destination fields were connected in the
+booking plugin settings. After testing different configurations and rebuilding the route list,
+bookings started saving with the correct pickup, destination, and vehicle.
 
 ---
 
