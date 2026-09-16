@@ -60,7 +60,8 @@ Multi-step reservation form including:
 ## Tech Stack
 
 - **WordPress** — CMS foundation
-- **[Add what you used: Divi / Elementor / custom theme]**
+- **Astra** — WordPress theme
+- **Booking plugin** — reservation system
 - **PHP** — for any custom functionality
 - **MySQL** — database
 - **HTML / CSS / JavaScript** — frontend
